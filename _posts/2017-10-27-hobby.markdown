@@ -1,0 +1,8 @@
+---
+layout: post
+title:  취미
+date:   2017-10-27 12:46:27 +0300
+img: 5.jpg
+tags: [Traditions, Books, Morning]
+---
+저의 취미는 알고리즘 풀이, 운동입니다.
