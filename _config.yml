@@ -1,5 +1,5 @@
 # Site settings
-title: Lokmont
+title: 안녕하세요, 여기는 한중호의 블로그입니다.
 description: Lokmont is a responsive simple theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,10 +10,10 @@ hero-title: Welcome to Lokmont
 hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
 
 # Author - Creator
-author-name: Ben Campbell
-author-image: 10.jpg
-about-author: My name is Ben Campbell. I'm an actor and a musician. Retro wolf banjo succulen tsgoch ujang tumeric hammock offal.
-author-email: help.example@gmail.com
+author-name: 한중호
+author-image: 178.jpg
+about-author: 안녕하세요. 여기는 한중호 개발자의 블로그입니다.
+author-email: dori628@naver.com
 author-twitter: https://twitter.com/
 author-facebook: https://twitter.com/
 author-instagram: https://www.instagram.com/
