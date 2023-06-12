@@ -1,5 +1,5 @@
 # Site settings
-title: 안녕하세요, 여기는 한중호의 블로그입니다.
+title: Han's blog
 description: Lokmont is a responsive simple theme for Jekyll.
 baseurl: "/gitblog_hello2" # the subpath of your site, e.g. /blog
 url: "https://BlackHan26/gitblog_hello2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
