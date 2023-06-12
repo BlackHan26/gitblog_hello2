@@ -1,5 +1,4 @@
 # Site settings
-<<<<<<< HEAD
 title: Lokmont
 description: Lokmont is a responsive simple theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,9 +22,9 @@ author-pinterest: https://pinterest.com/
 # Other Authors - here you can add Other authors. For example Natali_Braxton
 authors:
   Natali_Braxton:
-    author-name: 한중호
+    author-name: Natali Braxton
     author-image: 111.jpg
-    about-author: 안녕하세요 여기는 한주호 개발자 블로그입니다.
+    about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
     author-email: natali.example@gmail.com
     author-twitter: https://twitter.com/
     author-facebook: https://twitter.com/
@@ -51,23 +50,6 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 
 # Comment Section (Disqus)
 disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
-=======
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/gitblog_hello2" # the subpath of your site, e.g. /blog
-url: "https://blackhan26.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
->>>>>>> b15e8702083e2d14a3c6f6be8fc714ee4bb0feaf
 
 # Build settings
 markdown: kramdown
