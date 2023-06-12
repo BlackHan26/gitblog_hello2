@@ -12,7 +12,7 @@ hero-description: 안녕하세요 이곳은 한중호 개발의 블로그 입니
 # Author - Creator
 author-name: 한중호
 author-image: 178.jpg
-about-author: 안녕하세요. 여기는 한중호 개발자의 블로그입니다.
+about-author: Han's blog
 author-email: dori628@naver.com
 author-twitter: https://twitter.com/
 author-facebook: https://twitter.com/
@@ -23,7 +23,7 @@ author-pinterest: https://pinterest.com/
 authors:
   Natali_Braxton:
     author-name: Natali Braxton
-    author-image: 111.jpg
+    author-image: 178.jpg
     about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
     author-email: natali.example@gmail.com
     author-twitter: https://twitter.com/
