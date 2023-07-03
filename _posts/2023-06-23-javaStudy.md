@@ -1,4 +1,4 @@
----
+md---
 layout: single
 title: "Java 문자열 공부하기"
 
